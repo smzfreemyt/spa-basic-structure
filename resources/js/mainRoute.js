@@ -34,6 +34,6 @@ let router = new Router({
 	fallback: true
 });
 
-router.mode - 'html5';
+router.mode = 'html5';
 
 export default router;
